@@ -1,7 +1,7 @@
 # Omar-Style-Distributions-of-Alkali-Linux-Tremux
 # Distributions of Alkali Linux
 # 
-# T
+# ==> [ Tetmux ] 
 #
 # pkg install git
 # pkg install pyhon3 
