@@ -6,5 +6,6 @@
 # pkg install git
 # pkg install pyhon3 
 # 
+# git clone https://github.com/omarv7y/Omar-Style-Distributions-of-Alkali-Linux-Tremux.git
   git clone https://github.com/omarv7y/Omar-Style-Distributions-of-Alkali-Linux-Tremux.git
 # 
